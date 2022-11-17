@@ -1,0 +1,31 @@
+body {
+    color: black;
+    width: auto 0;
+}
+
+fieldset {
+    width: 50%;
+    background-color: cadetblue;
+}
+
+legend {
+    border: solid grey;
+    text-align: center;
+}
+
+input {
+    border-radius: 50px;
+}
+
+.flexcontainer {
+    display: flex;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.flex-direction-column {
+    flex-direction: column;
+}
+
